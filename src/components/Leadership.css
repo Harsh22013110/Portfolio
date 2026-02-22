@@ -1,0 +1,30 @@
+.leadership-card {
+  max-width: 720px;
+}
+
+.leadership-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.leadership-list li {
+  position: relative;
+  padding-left: 1.25rem;
+  margin-bottom: 0.75rem;
+  color: var(--text-muted);
+}
+
+.leadership-list li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0.55rem;
+  width: 5px;
+  height: 5px;
+  background: var(--accent);
+  border-radius: 50%;
+}
+
+.leadership-list li:last-child {
+  margin-bottom: 0;
+}
