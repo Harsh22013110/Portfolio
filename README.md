@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Harsh Shukla — Portfolio
 
 Industry-standard portfolio site built with **React** and **Vite**. Showcases experience, projects, skills, education, and contact information.
@@ -35,3 +36,6 @@ Output is in `dist/`. Deploy to Vercel, Netlify, or GitHub Pages.
 - React 18
 - Vite 5
 - CSS (custom properties, no framework)
+=======
+# Portfolio
+>>>>>>> 3689fb0ca662aa8c0e19c058d2ff10dd38307809
